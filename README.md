@@ -52,7 +52,7 @@ The **Pure Aqua Website** is a project designed to promote awareness about clean
 ## Screenshots
 
 ### Home Page
-![Home Page](images/water.jpg)
+![Home Page](images/homepage.png)
 
 ### Feedback Page
 ![Feedback Page](images/water2.jpg)
